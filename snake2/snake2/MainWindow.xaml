@@ -5,12 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Snake2"
         mc:Ignorable="d"
-        Title="SnakySnake" Height="750" Width="800" KeyDown="Window_KeyDown">
+        Title="SnakySnake" Height="750" Width="800" KeyDown="Window_KeyDown" ResizeMode="NoResize">
     <DockPanel>
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="Game">
                 <MenuItem Header="New Game" Click="MenuItem_Click"/>
-                <MenuItem Header="settings" />
+                <MenuItem Header="size settings" Click="MenuItem_Click_Settings_Size"/>
+                <MenuItem Header="speed settings" Click="MenuItem_Click_Settings_Speed"/>
             </MenuItem>
         </Menu>
     <Grid Background="Black">

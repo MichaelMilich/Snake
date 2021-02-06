@@ -28,3 +28,9 @@ C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\snake2.csproj.GenerateRes
 C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\snake2.csproj.CoreCompileInputs.cache
 C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\Snake2.exe
 C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\Snake2.pdb
+C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\SettingsWindow.g.cs
+C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\Window1.g.cs
+C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\SettingsWindow.baml
+C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\Window1.baml
+C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\SpeedSetting.g.cs
+C:\Users\amilichx\source\repos\snake2\snake2\obj\Debug\SpeedSetting.baml
